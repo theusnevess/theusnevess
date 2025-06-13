@@ -1,8 +1,3 @@
-<!-- BANNER COSMOS -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/theusnevess/assets/banner-opt.gif" alt="Banner cósmico otimizado" width="100%" style="max-width:1600px;"/>
-</div>
-
 <h1 align="center">🚀 Olá! Eu sou <span style="color:#7f5af0;">Matheus Neves</span></h1>
 
 <!-- TYPING ANIMATION -->
@@ -11,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+  <img src="https://github.com/theusnevess/theusnevess/blob/main/separador_cosmico_premium.png" width="100%"/>
 </div>
 
 ## 👾 Sobre
@@ -20,7 +15,6 @@ Sou estudante de Ciência de Dados apaixonado por Inteligência Artificial, Mach
 
 Atualmente me dedico a construir projetos que unem dados, automação e criatividade. Busco constantemente aprender, criar e compartilhar conhecimento com a comunidade.
 
----
 
 ## ⚙️ Tech Stack
 
@@ -35,7 +29,6 @@ Atualmente me dedico a construir projetos que unem dados, automação e criativi
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
----
 
 ## 📊 GitHub Insights
 
@@ -44,8 +37,6 @@ Atualmente me dedico a construir projetos que unem dados, automação e criativi
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusnevess&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theusnevess&theme=tokyonight&hide_border=true" />
 </div>
-
----
 
 ## 🚀 Projetos em Destaque
 
@@ -58,15 +49,27 @@ Atualmente me dedico a construir projetos que unem dados, automação e criativi
   </a>
 </div>
 
----
 
-## 📅 Contribuições no GitHub
+## 🚀 Minha Jornada Cósmica (Contribuições)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=theusnevess&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Gráfico de atividade" />
+  <picture>
+    <source 
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=theusnevess&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=7F5AF0&point=BB86FC&line=2D374B&area_color=7F5AF055"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=theusnevess&theme=react&hide_border=true&area=true&color=7F5AF0&point=BB86FC&line=2D374B&area_color=7F5AF055"
+    >
+    <img
+      alt="Minha jornada de contribuições cósmicas"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=theusnevess&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=7F5AF0&point=BB86FC&line=2D374B&area_color=7F5AF055"
+      width="100%"
+    >
+  </picture>
 </p>
 
----
 
 ## 🌐 Vamos nos conectar
 
@@ -79,10 +82,8 @@ Atualmente me dedico a construir projetos que unem dados, automação e criativi
 
 </div>
 
----
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+  <img src="https://github.com/theusnevess/theusnevess/blob/main/separador_cosmico_premium.png" width="100%"/>
 </div>
 
 ```python
@@ -93,5 +94,3 @@ def explorar_universo():
         compartilhar()
         contribuir()
 
-if __name__ == "__main__":
-    explorar_universo()
