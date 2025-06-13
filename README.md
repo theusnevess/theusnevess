@@ -17,15 +17,15 @@ Atualmente me dedico a construir projetos que unem dados, automação e criativi
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Tecnologias
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-FF4B4B?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
@@ -35,17 +35,17 @@ Atualmente me dedico a construir projetos que unem dados, automação e criativi
 ## 📦 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/theusnevess/previsao-vendas-ml">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theusnevess&repo=previsao-vendas-ml&bg_color=0D1117&text_color=58A6FF&title_color=79C0FF&theme=tokyonight"/>
+  <a href="https://github.com/theusnevess/Modelos-de-classifica-o-Dataset-Iris-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theusnevess&repo=Modelos-de-classifica-o-Dataset-Iris-&bg_color=0D1117&text_color=58A6FF&title_color=79C0FF&theme=tokyonight" alt="Modelos de classificação Dataset Iris" />
   </a>
-  <a href="https://github.com/theusnevess/analise-clima-brasil">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theusnevess&repo=analise-clima-brasil&bg_color=0D1117&text_color=58A6FF&title_color=79C0FF&theme=tokyonight"/>
+  <a href="https://github.com/theusnevess/Biblioteca-de-jogos-">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theusnevess&repo=Biblioteca-de-jogos-&bg_color=0D1117&text_color=58A6FF&title_color=79C0FF&theme=tokyonight" alt="Biblioteca de jogos" />
   </a>
 </div>
 
 ---
 
-## 📊 GitHub Insights
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theusnevess&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
@@ -61,15 +61,15 @@ Atualmente me dedico a construir projetos que unem dados, automação e criativi
   <picture>
     <source 
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=theusnevess&theme=react-dark&bg_color=0D1117&hide_border=true&hide_title=true&area=true&color=7F5AF0&point=7F5AF0&line=2D374B&area_color=7F5AF055&locale=pt"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=theusnevess&theme=react-dark&bg_color=0D1117&hide_border=true&hide_title=true&area=true&color=7F5AF0&point=7F5AF0&line=2D374B&area_color=7F5AF055"
     >
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=theusnevess&theme=react&hide_border=true&hide_title=true&area=true&color=7F5AF0&point=7F5AF0&line=2D374B&area_color=7F5AF055&locale=pt"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=theusnevess&theme=react&hide_border=true&hide_title=true&area=true&color=7F5AF0&point=7F5AF0&line=2D374B&area_color=7F5AF055"
     >
     <img
       alt="Minha jornada de contribuições cósmicas"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=theusnevess&theme=react-dark&bg_color=0D1117&hide_border=true&hide_title=true&area=true&color=7F5AF0&point=7F5AF0&line=2D374B&area_color=7F5AF055&locale=pt"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=theusnevess&theme=react-dark&bg_color=0D1117&hide_border=true&hide_title=true&area=true&color=7F5AF0&point=7F5AF0&line=2D374B&area_color=7F5AF055"
       width="100%"
     >
   </picture>
@@ -99,7 +99,7 @@ Atualmente me dedico a construir projetos que unem dados, automação e criativi
     <img src="https://img.shields.io/badge/Portfólio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
   <a href="https://www.kaggle.com/theussnows" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Kaggle-150458?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </div>
 
