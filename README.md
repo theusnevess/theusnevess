@@ -1,7 +1,7 @@
 Olá, eu sou Matheus! 👋
 
 <p align="center">
-  <img src="./cosmic_header_background.png" alt="Fundo Cósmico Abstrato" width="100%">
+  <img src="https://github.com/theusnevess/theusnevess/blob/main/Data_Universe_.png" alt="Fundo Cósmico Abstrato" width="100%">
 </p>
 
 Sou um estudante apaixonado por Ciência de Dados, com um foco especial em Machine Learning e Desenvolvimento de Software. Acredito que a combinação dessas áreas é a chave para desvendar insights poderosos e construir soluções inovadoras que moldarão o futuro.
@@ -67,6 +67,6 @@ Minha jornada é impulsionada pela curiosidade em explorar o vasto universo dos 
 <p align="center">
   <a href="https://linkedin.com/in/seu_usuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="matheusneves1204@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/theuss" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://github.com/theusnevess" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
