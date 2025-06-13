@@ -1,72 +1,104 @@
-Olá, eu sou Matheus! 👋
+<!-- BANNER COSMOS -->
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/theusnevess/assets/banner-opt.gif" alt="Banner cósmico otimizado" width="100%" style="max-width:1600px;"/>
+</div>
+
+<h1 align="center">🚀 Olá! Eu sou <span style="color:#7f5af0;">Matheus Neves</span></h1>
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Focus-Machine%20Learning-blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/theusnevess?style=social)
+
+</div>
+
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=7F5AF0&background=2D374B00&center=true&vCenter=true&width=700&height=70&lines=Estudante+de+Ciência+de+Dados;Focado+em+Machine+Learning+e+Dev+de+Software;Explorando+o+universo+da+IA+com+curiosidade+infinita;Transformando+dados+em+insights+cósmicos" alt="Matheus Neves - Cientista de Dados" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
+
+## 👾 Sobre
+
+Sou estudante de Ciência de Dados apaixonado por Inteligência Artificial, Machine Learning e desenvolvimento de software. Meu objetivo é transformar dados em decisões que brilham como estrelas — ao infinito e além!
+
+Atualmente me dedico a construir projetos que unem dados, automação e criatividade. Busco constantemente aprender, criar e compartilhar conhecimento com a comunidade.
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</div>
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theusnevess&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusnevess&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theusnevess&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+  <a href="https://github.com/theusnevess/previsao-vendas-ml">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theusnevess&repo=previsao-vendas-ml&bg_color=0D1117&text_color=58A6FF&title_color=79C0FF&theme=tokyonight"/>
+  </a>
+  <a href="https://github.com/theusnevess/analise-clima-brasil">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theusnevess&repo=analise-clima-brasil&bg_color=0D1117&text_color=58A6FF&title_color=79C0FF&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+## 📅 Contribuições no GitHub
 
 <p align="center">
-  <img src="https://github.com/theusnevess/theusnevess/blob/main/Data_Universe_.png" alt="Fundo Cósmico Abstrato" width="100%">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=theusnevess&theme=tokyo-night&bg_color=0d1117&hide_border=true" alt="Gráfico de atividade" />
 </p>
 
-Sou um estudante apaixonado por Ciência de Dados, com um foco especial em Machine Learning e Desenvolvimento de Software. Acredito que a combinação dessas áreas é a chave para desvendar insights poderosos e construir soluções inovadoras que moldarão o futuro.
+---
 
-Minha jornada é impulsionada pela curiosidade em explorar o vasto universo dos dados, buscando padrões ocultos e transformando-os em conhecimento acionável. Estou constantemente aprendendo e aplicando novas técnicas para criar sistemas inteligentes e eficientes.
+## 🌐 Vamos nos conectar
 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-neves-1125632b9)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusneves1204@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portfólio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white)](https://matheusneves.dev)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/seuuser)
 
+</div>
 
+---
 
-🌌 Minhas Habilidades e Ferramentas
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="MatploLib"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</p>
+```python
+def explorar_universo():
+    while True:
+        aprender()
+        criar()
+        compartilhar()
+        contribuir()
 
-
-
-
-
-📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theusnevess&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Matheus's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusnevess&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
-
-
-
-
-🚀 Projetos em Destaque
-
-<p align="center">
- 
-</p>
-
-
-
-
-
-✨ Citação/Filosofia
-
-"O universo é feito de histórias, não de átomos." - Muriel Rukeyser
-
-
-
-
-
-📧 Conecte-se Comigo
-
-<p align="center">
-  <a href="https://linkedin.com/in/seu_usuario" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="matheusneves1204@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/theusnevess" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
-
+if __name__ == "__main__":
+    explorar_universo()
