@@ -5,13 +5,6 @@
 
 <h1 align="center">🚀 Olá! Eu sou <span style="color:#7f5af0;">Matheus Neves</span></h1>
 
-<div align="center">
-
-![Status](https://img.shields.io/badge/Focus-Machine%20Learning-blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/theusnevess?style=social)
-
-</div>
-
 <!-- TYPING ANIMATION -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=7F5AF0&background=2D374B00&center=true&vCenter=true&width=700&height=70&lines=Estudante+de+Ciência+de+Dados;Focado+em+Machine+Learning+e+Dev+de+Software;Explorando+o+universo+da+IA+com+curiosidade+infinita;Transformando+dados+em+insights+cósmicos" alt="Matheus Neves - Cientista de Dados" />
