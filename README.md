@@ -9,36 +9,30 @@
   <img src="https://github.com/theusnevess/theusnevess/blob/main/separador_cosmico_premium.png" width="100%"/>
 </div>
 
-## 👾 Sobre
+## 👨‍🚀 Sobre Mim
 
 Sou estudante de Ciência de Dados apaixonado por Inteligência Artificial, Machine Learning e desenvolvimento de software. Meu objetivo é transformar dados em decisões que brilham como estrelas — ao infinito e além!
 
 Atualmente me dedico a construir projetos que unem dados, automação e criatividade. Busco constantemente aprender, criar e compartilhar conhecimento com a comunidade.
 
+---
 
-## ⚙️ Tech Stack
+## 🧠 Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-FF4B4B?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
+---
 
-## 📊 GitHub Insights
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theusnevess&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusnevess&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theusnevess&theme=tokyonight&hide_border=true" />
-</div>
-
-## 🚀 Projetos em Destaque
+## 📦 Projetos em Destaque
 
 <div align="center">
   <a href="https://github.com/theusnevess/previsao-vendas-ml">
@@ -49,37 +43,64 @@ Atualmente me dedico a construir projetos que unem dados, automação e criativi
   </a>
 </div>
 
+---
 
-## 🚀 Minha Jornada Cósmica (Contribuições)
+## 📊 GitHub Insights
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theusnevess&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusnevess&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=theusnevess&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🌌 Contribuições Cósmicas
 
 <p align="center">
   <picture>
     <source 
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=theusnevess&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=7F5AF0&point=BB86FC&line=2D374B&area_color=7F5AF055"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=theusnevess&theme=react-dark&bg_color=0D1117&hide_border=true&hide_title=true&area=true&color=7F5AF0&point=7F5AF0&line=2D374B&area_color=7F5AF055&locale=pt"
     >
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=theusnevess&theme=react&hide_border=true&area=true&color=7F5AF0&point=BB86FC&line=2D374B&area_color=7F5AF055"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=theusnevess&theme=react&hide_border=true&hide_title=true&area=true&color=7F5AF0&point=7F5AF0&line=2D374B&area_color=7F5AF055&locale=pt"
     >
     <img
       alt="Minha jornada de contribuições cósmicas"
-      src="https://github-readme-activity-graph.vercel.app/graph?username=theusnevess&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=7F5AF0&point=BB86FC&line=2D374B&area_color=7F5AF055"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=theusnevess&theme=react-dark&bg_color=0D1117&hide_border=true&hide_title=true&area=true&color=7F5AF0&point=7F5AF0&line=2D374B&area_color=7F5AF055&locale=pt"
       width="100%"
     >
   </picture>
 </p>
 
+---
 
-## 🌐 Vamos nos conectar
+## 📚 Certificações e Cursos
+
+- 🧠 **Análise de Dados — Google (Coursera)**
+- 📊 **Ciência de Dados Associado em Python — DataCamp**
+- ☁️ **Oracle Next Education — Alura/Oracle**
+- 🧪 **Criando Agentes Inteligentes com IA Generativa — I2A2**
+
+---
+
+## 🌍 Vamos nos Conectar
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-neves-1125632b9)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusneves1204@gmail.com)
-[![Portfólio](https://img.shields.io/badge/Portfólio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white)](https://matheusneves.dev)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/seuuser)
-
+  <a href="https://www.linkedin.com/in/matheus-neves-1125632b9" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:matheusneves1204@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://matheusneves.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfólio-7F5AF0?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
+  </a>
+  <a href="https://www.kaggle.com/theussnows" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-150458?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
 </div>
 
 <div align="center">
@@ -94,3 +115,4 @@ def explorar_universo():
         compartilhar()
         contribuir()
 
+explorar_universo()
