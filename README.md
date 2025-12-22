@@ -25,10 +25,19 @@ Atualmente me dedico a construir projetos que unem dados, automação e criativi
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MySQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CrewAI-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
+
 
 ---
 
@@ -79,8 +88,8 @@ Atualmente me dedico a construir projetos que unem dados, automação e criativi
 
 ## 📚 Certificações e Cursos
 
-- 🧠 **Análise de Dados — Google (Coursera)**
-- 📊 **Ciência de Dados Associado em Python — DataCamp**
+- 🧠 **Agentes Inteligentes — AKCIT (UFG)**
+- 📊 **Introdução ao Processamento de Linguagem Natural — AKCIT (UFG)**
 - ☁️ **Oracle Next Education — Alura/Oracle**
 - 🧪 **Criando Agentes Inteligentes com IA Generativa — I2A2**
 
