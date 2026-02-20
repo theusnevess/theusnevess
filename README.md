@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Matheus Neves</h1>
+
 <p align="center">
   <strong>AI Systems Engineer in Formation • Multi-Agent Intelligence • Cognitive Infrastructure</strong>
 </p>
@@ -11,33 +12,56 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=Machine+Learning;Multi-Agent+Systems;RAG+Architectures;Data+Science;Distributed+AI;Cognitive+Infrastructure" alt="Typing SVG">
 </p>
 
----
-
-### 🌌 Sobre Mim
-
-Sou um **Engenheiro de IA em formação**, focado na construção de **sistemas inteligentes distribuídos**. Atuo na fronteira entre modelos de linguagem e infraestrutura escalável.
-
-- 🧠 **Machine Learning & Deep Learning**
-- 🤖 **Sistemas Multiagentes (LangGraph/Autogen)**
-- 📊 **Data Science & RAG Architectures**
-- 🏗️ **Sistemas Distribuídos & Mensageria (RabbitMQ/Redis)**
-
-> Transformo modelos de IA em **infraestrutura operacional**, priorizando rastreabilidade e escalabilidade.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7F5AF0&height=100&section=footer"/>
+</p>
 
 ---
 
-### 🚀 Projeto em Destaque: CortAI
+<h3 align="center">🌌 Sobre Mim</h3>
 
-**Cognitive Media Infrastructure**
+<p align="center">
+Engenheiro de IA em formação focado na construção de <strong>sistemas inteligentes distribuídos</strong>.
+<br>
+Atuo na interseção entre modelos de linguagem e infraestrutura escalável.
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center">🧠<br><strong>Machine Learning & Deep Learning</strong></td>
+<td align="center">🤖<br><strong>Sistemas Multiagentes</strong></td>
+<td align="center">📊<br><strong>Data Science & RAG</strong></td>
+<td align="center">🏗️<br><strong>Sistemas Distribuídos</strong></td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+<em>Transformo modelos de IA em infraestrutura operacional, priorizando rastreabilidade e escalabilidade.</em>
+</p>
+
+---
+
+<h3 align="center">🚀 CortAI — Cognitive Media Infrastructure</h3>
+
+<p align="center">
 Infraestrutura cognitiva baseada em arquitetura multiagente para processamento de streams e análise semântica.
+</p>
 
-- **Orquestração:** LangGraph com coordenação hierárquica.
-- **Stack:** RabbitMQ, Redis, Docker, Python.
-- **Foco:** Observabilidade cognitiva e feedback loops automáticos.
+<table align="center">
+<tr>
+<td><strong>Orquestração</strong><br>LangGraph com coordenação hierárquica</td>
+<td><strong>Stack</strong><br>RabbitMQ • Redis • Docker • Python</td>
+<td><strong>Foco</strong><br>Observabilidade cognitiva e feedback loops</td>
+</tr>
+</table>
 
 ---
 
-### 🪐 Tech Orbit
+<h3 align="center">🪐 Tech Orbit</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,sklearn,tensorflow,pytorch,redis,docker,mysql,git,github,linux&theme=dark" alt="Skills">
@@ -45,21 +69,21 @@ Infraestrutura cognitiva baseada em arquitetura multiagente para processamento d
 
 ---
 
-### 📈 GitHub Analytics
+<h3 align="center">📈 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=theusnevess&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theusnevess&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=theusnevess&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theusnevess&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=theusnevess&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theusnevess&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=theusnevess&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theusnevess&theme=tokyo-night&hide_border=true" height="165"/>
 </p>
 
 ---
 
-### 🐍 GitHub Snake Contribution
+<h3 align="center">🐍 GitHub Snake Contribution</h3>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/theusnevess/theusnevess/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
@@ -67,28 +91,32 @@ Infraestrutura cognitiva baseada em arquitetura multiagente para processamento d
 
 ---
 
-### 🧬 Filosofia de Engenharia
+<h3 align="center">🧬 Filosofia de Engenharia</h3>
 
-> "Modelos são componentes. Arquitetura é inteligência."
+<p align="center">
+<strong>"Modelos são componentes. Arquitetura é inteligência."</strong>
+</p>
 
+<p align="center">
 Projeto sistemas que persistem memória, tomam decisões auditáveis e evoluem com feedback contínuo.
+</p>
 
 ---
 
-### 🌍 Conecte-se Comigo
+<h3 align="center">🌍 Conecte-se Comigo</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-neves-1125632b9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/matheus-neves-1125632b9">
+    <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=000000">
   </a>
-  <a href="mailto:matheusneves1204@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-7F5AF0?style=for-the-badge&logo=gmail&logoColor=000000" alt="Gmail">
+  <a href="mailto:matheusneves1204@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-7F5AF0?style=for-the-badge&logo=gmail&logoColor=000000">
   </a>
-  <a href="https://matheusneves.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio">
+  <a href="https://matheusneves.dev">
+    <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=000000">
   </a>
-  <a href="https://www.kaggle.com/theussnows" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-7F5AF0?style=for-the-badge&logo=kaggle&logoColor=000000" alt="Kaggle">
+  <a href="https://www.kaggle.com/theussnows">
+    <img src="https://img.shields.io/badge/Kaggle-7F5AF0?style=for-the-badge&logo=kaggle&logoColor=000000">
   </a>
 </p>
 
@@ -103,4 +131,3 @@ class CognitiveEngineer:
         print("Engineering intelligence in every layer.")
 
 CognitiveEngineer().build()
-```
