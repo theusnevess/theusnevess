@@ -250,7 +250,7 @@
 <table align="center" width="92%">
   <tr>
     <td width="25%" align="center" valign="top">
-      <strong><span style="color:#00F0FF;">AI / COMPUTER VISION</span></strong><br><br>
+      <strong><a href="https://github.com/theusnevess/VisionFarm">AI / COMPUTER VISION</a></strong><br><br>
       <span style="color:#B8C7D9;">
         <img src="https://cdn.simpleicons.org/python/3776AB" width="16" height="16" alt="Python">&nbsp; Python<br>
         <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="16" height="16" alt="OpenCV">&nbsp; OpenCV<br>
@@ -259,9 +259,8 @@
         <span style="color:#00F0FF;">◉</span>&nbsp; Deep Learning
       </span>
     </td>
-
     <td width="25%" align="center" valign="top">
-      <strong><span style="color:#60A5FA;">AI SYSTEMS</span></strong><br><br>
+      <strong><a href="https://github.com/theusnevess/CortAI">AI SYSTEMS</a></strong><br><br>
       <span style="color:#B8C7D9;">
         <span style="color:#60A5FA;">◉</span>&nbsp; Agents<br>
         <span style="color:#60A5FA;">◉</span>&nbsp; LLM Applications<br>
@@ -270,9 +269,8 @@
         <span style="color:#60A5FA;">◉</span>&nbsp; Workflows
       </span>
     </td>
-
     <td width="25%" align="center" valign="top">
-      <strong><span style="color:#A78BFA;">ENGINEERING</span></strong><br><br>
+      <strong><a href="https://github.com/theusnevess/NeuralVerse">ENGINEERING</a></strong><br><br>
       <span style="color:#B8C7D9;">
         <img src="https://cdn.simpleicons.org/docker/2496ED" width="16" height="16" alt="Docker">&nbsp; Docker<br>
         <img src="https://cdn.simpleicons.org/fastapi/009688" width="16" height="16" alt="FastAPI">&nbsp; FastAPI<br>
@@ -281,9 +279,8 @@
         <span style="color:#A78BFA;">◉</span>&nbsp; Testing
       </span>
     </td>
-
     <td width="25%" align="center" valign="top">
-      <strong><span style="color:#22D3EE;">DATA / INFRA</span></strong><br><br>
+      <strong><a href="https://github.com/theusnevess/CortAI">DATA / INFRA</a></strong><br><br>
       <span style="color:#B8C7D9;">
         <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="16" height="16" alt="PostgreSQL">&nbsp; PostgreSQL<br>
         <img src="https://cdn.simpleicons.org/redis/DC382D" width="16" height="16" alt="Redis">&nbsp; Redis<br>
