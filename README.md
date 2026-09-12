@@ -245,46 +245,56 @@
 
 <br>
 
+<div align="center">
+
 <table align="center" width="92%">
-<table width="92%">
-<tr>
-<td width="25%" align="center" valign="top">
-<strong>AI / COMPUTER VISION</strong><br><br>
-<img src="https://cdn.simpleicons.org/python/3776AB" width="16" height="16" alt="Python">&nbsp; Python<br>
-<img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="16" height="16" alt="OpenCV">&nbsp; OpenCV<br>
-<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="16" height="16" alt="PyTorch">&nbsp; PyTorch<br>
-<img src="https://cdn.simpleicons.org/ultralytics/00A6A6" width="16" height="16" alt="YOLO">&nbsp; YOLO<br>
-◉&nbsp; Deep Learning
-</td>
+  <tr>
+    <td width="25%" align="center" valign="top">
+      <strong><span style="color:#00F0FF;">AI / COMPUTER VISION</span></strong><br><br>
+      <span style="color:#B8C7D9;">
+        <img src="https://cdn.simpleicons.org/python/3776AB" width="16" height="16" alt="Python">&nbsp; Python<br>
+        <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="16" height="16" alt="OpenCV">&nbsp; OpenCV<br>
+        <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="16" height="16" alt="PyTorch">&nbsp; PyTorch<br>
+        <img src="https://cdn.simpleicons.org/ultralytics/00A6A6" width="16" height="16" alt="YOLO">&nbsp; YOLO<br>
+        <span style="color:#00F0FF;">◉</span>&nbsp; Deep Learning
+      </span>
+    </td>
 
-<td width="25%" align="center" valign="top">
-<strong>AI SYSTEMS</strong><br><br>
-◉&nbsp; Agents<br>
-◉&nbsp; LLM Applications<br>
-◉&nbsp; Orchestration<br>
-◉&nbsp; RAG<br>
-◉&nbsp; Workflows
-</td>
+    <td width="25%" align="center" valign="top">
+      <strong><span style="color:#60A5FA;">AI SYSTEMS</span></strong><br><br>
+      <span style="color:#B8C7D9;">
+        <span style="color:#60A5FA;">◉</span>&nbsp; Agents<br>
+        <span style="color:#60A5FA;">◉</span>&nbsp; LLM Applications<br>
+        <span style="color:#60A5FA;">◉</span>&nbsp; Orchestration<br>
+        <span style="color:#60A5FA;">◉</span>&nbsp; RAG<br>
+        <span style="color:#60A5FA;">◉</span>&nbsp; Workflows
+      </span>
+    </td>
 
-<td width="25%" align="center" valign="top">
-<strong>ENGINEERING</strong><br><br>
-<img src="https://cdn.simpleicons.org/docker/2496ED" width="16" height="16" alt="Docker">&nbsp; Docker<br>
-<img src="https://cdn.simpleicons.org/fastapi/009688" width="16" height="16" alt="FastAPI">&nbsp; FastAPI<br>
-<img src="https://cdn.simpleicons.org/celery/37814A" width="16" height="16" alt="Celery">&nbsp; Celery<br>
-<img src="https://cdn.simpleicons.org/git/F05032" width="16" height="16" alt="Git">&nbsp; Git<br>
-◉&nbsp; Testing
-</td>
+    <td width="25%" align="center" valign="top">
+      <strong><span style="color:#A78BFA;">ENGINEERING</span></strong><br><br>
+      <span style="color:#B8C7D9;">
+        <img src="https://cdn.simpleicons.org/docker/2496ED" width="16" height="16" alt="Docker">&nbsp; Docker<br>
+        <img src="https://cdn.simpleicons.org/fastapi/009688" width="16" height="16" alt="FastAPI">&nbsp; FastAPI<br>
+        <img src="https://cdn.simpleicons.org/celery/37814A" width="16" height="16" alt="Celery">&nbsp; Celery<br>
+        <img src="https://cdn.simpleicons.org/git/F05032" width="16" height="16" alt="Git">&nbsp; Git<br>
+        <span style="color:#A78BFA;">◉</span>&nbsp; Testing
+      </span>
+    </td>
 
-<td width="25%" align="center" valign="top">
-<strong>DATA / INFRA</strong><br><br>
-<img src="https://cdn.simpleicons.org/postgresql/4169E1" width="16" height="16" alt="PostgreSQL">&nbsp; PostgreSQL<br>
-<img src="https://cdn.simpleicons.org/redis/DC382D" width="16" height="16" alt="Redis">&nbsp; Redis<br>
-<img src="https://cdn.simpleicons.org/minio/C72E49" width="16" height="16" alt="MinIO">&nbsp; MinIO<br>
-◉&nbsp; SQL<br>
-<img src="https://cdn.simpleicons.org/numpy/013243" width="16" height="16" alt="NumPy">&nbsp; Pandas · NumPy
-</td>
-</tr>
+    <td width="25%" align="center" valign="top">
+      <strong><span style="color:#22D3EE;">DATA / INFRA</span></strong><br><br>
+      <span style="color:#B8C7D9;">
+        <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="16" height="16" alt="PostgreSQL">&nbsp; PostgreSQL<br>
+        <img src="https://cdn.simpleicons.org/redis/DC382D" width="16" height="16" alt="Redis">&nbsp; Redis<br>
+        <img src="https://cdn.simpleicons.org/minio/C72E49" width="16" height="16" alt="MinIO">&nbsp; MinIO<br>
+        <span style="color:#22D3EE;">◉</span>&nbsp; SQL<br>
+        <img src="https://cdn.simpleicons.org/numpy/013243" width="16" height="16" alt="NumPy">&nbsp; Pandas · NumPy
+      </span>
+    </td>
+  </tr>
 </table>
+
 </div>
 
 <br>
@@ -303,20 +313,22 @@
 
 <br>
 
+<div align="center">
 <table align="center" width="94%">
   <tr>
-    <td width="50%" valign="top">
-      <p><strong><span style="color:#00F0FF;">01</span></strong>&nbsp;&nbsp;Architecture before abstraction.</p>
-      <p><strong><span style="color:#00F0FF;">02</span></strong>&nbsp;&nbsp;Reproducibility over demos.</p>
-      <p><strong><span style="color:#00F0FF;">03</span></strong>&nbsp;&nbsp;Observable systems over opaque workflows.</p>
+    <td width="50%" align="center" valign="top">
+      <p><strong><span style="color:#00F0FF;">01</span></strong>&nbsp;&nbsp;<span style="color:#B8C7D9;">Architecture before abstraction.</span></p>
+      <p><strong><span style="color:#00F0FF;">02</span></strong>&nbsp;&nbsp;<span style="color:#B8C7D9;">Reproducibility over demos.</span></p>
+      <p><strong><span style="color:#00F0FF;">03</span></strong>&nbsp;&nbsp;<span style="color:#B8C7D9;">Observable systems over opaque workflows.</span></p>
     </td>
-    <td width="50%" valign="top">
-      <p><strong><span style="color:#A78BFA;">04</span></strong>&nbsp;&nbsp;Explicit contracts at system boundaries.</p>
-      <p><strong><span style="color:#A78BFA;">05</span></strong>&nbsp;&nbsp;Evaluation before optimization.</p>
-      <p><strong><span style="color:#A78BFA;">06</span></strong>&nbsp;&nbsp;Models are components; systems are products.</p>
+    <td width="50%" align="center" valign="top">
+      <p><strong><span style="color:#A78BFA;">04</span></strong>&nbsp;&nbsp;<span style="color:#B8C7D9;">Explicit contracts at system boundaries.</span></p>
+      <p><strong><span style="color:#A78BFA;">05</span></strong>&nbsp;&nbsp;<span style="color:#B8C7D9;">Evaluation before optimization.</span></p>
+      <p><strong><span style="color:#A78BFA;">06</span></strong>&nbsp;&nbsp;<span style="color:#B8C7D9;">Models are components; systems are products.</span></p>
     </td>
   </tr>
 </table>
+</div>
 
 <br>
 
